@@ -17,7 +17,7 @@ const Projects = () => {
       title: "Online Book Store",
       description:
         "A comprehensive full-stack e-commerce platform for browsing, searching, and purchasing books. Features include advanced search by author, title, and subject, user authentication, and order management.",
-      technologies: ["HTML", "CSS", "JavaScript", "Spring Boot", "SQL", "REST API"],
+      technologies: ["HTML", "CSS", "JavaScript", "SQL", "REST API"],
       outcome: "Fully functional bookstore with seamless user experience",
       image: "bookstore",
     },

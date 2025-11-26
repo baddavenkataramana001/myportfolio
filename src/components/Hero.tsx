@@ -8,7 +8,7 @@ const Hero = () => {
     "Software Developer",
     "Python Developer",
     "React Learner",
-    "Full-Stack Enthusiast",
+    "Django Enthusiast",
   ];
   const [currentRoleIndex, setCurrentRoleIndex] = useState(0);
 
@@ -61,8 +61,8 @@ const Hero = () => {
           </div>
 
           <p className="text-lg sm:text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-            Dedicated software developer with strong skills in Python, C, Django, JavaScript,
-            and full-stack development. Passionate about coding, building applications, and
+            Dedicated software developer with strong skills in Python, Django, JavaScript,
+            and Python full-stack development. Passionate about coding, building applications, and
             learning new technologies.
           </p>
 
@@ -79,7 +79,7 @@ const Hero = () => {
               size="lg"
               variant="outline"
               className="border-primary text-primary hover:bg-primary hover:text-primary-foreground transition-all duration-300 hover:scale-105"
-              onClick={() => window.open("https://linkedin.com/in/badda-venkataramana-978702254", "_blank")}
+              onClick={() => window.open("https://www.linkedin.com/in/B-venky", "_blank")}
             >
               <Linkedin className="mr-2 h-5 w-5" />
               LinkedIn Profile
@@ -89,6 +89,7 @@ const Hero = () => {
               size="lg"
               variant="outline"
               className="border-primary text-primary hover:bg-primary hover:text-primary-foreground transition-all duration-300 hover:scale-105"
+               onClick={() => window.open("https://github.com/orgs/baddavenkataramana001", "_blank")}
             >
               <Github className="mr-2 h-5 w-5" />
               GitHub

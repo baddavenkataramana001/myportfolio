@@ -43,7 +43,7 @@ const About = () => {
                 from <span className="text-primary font-semibold">Avanthi's Research and Technological Academy</span>.
               </p>
               <p className="text-muted-foreground leading-relaxed">
-                With a strong foundation in programming languages like Python, C, and JavaScript,
+                With a strong foundation in programming languages like Python, JavaScript,
                 I specialize in building full-stack web applications using modern frameworks like
                 Django and React. My journey in software development is driven by curiosity and
                 a commitment to continuous learning.
